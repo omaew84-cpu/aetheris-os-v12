@@ -1,11 +1,34 @@
-<div align="center">
+# AETHERIS OS — Control Tower v12
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+AI Agent Governance OS สำหรับควบคุม AI Agent Swarm แบบเรียลไทม์
 
-  <h1>Built with AI Studio</h2>
+Built with Google AI Studio • React + Vite + Tailwind
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
+- CommandCenter, AgentSpectrum
+- ArchitectureBlueprint, BlackSwanSimulator  
+- HeartbeatVisualizer, KPITrendChart, ROICalculator
+- SecurityIncidentPanel, ResourceAllocation
+- LandingPage, AuthModal, BillingPortal
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Pricing
+Free Trial: 0฿ / 7 วัน
+Starter: 499฿ /เดือน
+Pro: 1,490฿ /เดือน
+Enterprise: ติดต่อฝ่ายขาย
 
-</div>
+## Quick Start
+git clone https://github.com/zxsvzv00-cpu/aetheris-os-v12.git
+cd aetheris-os-v12
+npm install
+npm run dev
+
+Build: npm run build → dist/
+
+## Deploy Vercel
+Framework: Vite
+Build: npm run build
+Output: dist
+
+---
+AETHERIS OS © 2026
