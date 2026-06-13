@@ -1,11 +1,40 @@
-<div align="center">
+# AETHERIS OS — Control Tower v12
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+AI Agent Governance OS สำหรับควบคุม, ตรวจสอบ, และทำกำไรจาก AI Agent Swarm แบบเรียลไทม์
 
-  <h1>Built with AI Studio</h2>
+Built with Google AI Studio • React + Vite + Tailwind CSS
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## ✨ Features
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+**Control Tower**
+- CommandCenter — 30-layer Cognitive Governance Mesh
+- AgentSpectrum — MAEW / SALES / MARKETING / FINANCE
+- ArchitectureBlueprint — Live system map
+- BlackSwanSimulator — Chaos Sandbox
 
-</div>
+**Ops & Analytics**
+- HeartbeatVisualizer, KPITrendChart, ROICalculator
+- ResourceAllocation, SecurityIncidentPanel
+- MacrosPanel, TaskPolicyManager
+
+**Platform**
+- LandingPage, AuthModal, BillingPortal
+- Firebase Auth / Firestore
+- Export C-Suite Dossier
+
+## 💳 Pricing
+
+| Plan | ราคา |
+|---|---|
+| Free Trial | 0฿ / 7 วัน |
+| Starter | 499฿ /เดือน |
+| Pro | 1,490฿ /เดือน |
+| Enterprise | ติดต่อฝ่ายขาย |
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/zxsvzv00-cpu/aetheris-os-v12.git
+cd aetheris-os-v12
+npm install
+npm run dev
