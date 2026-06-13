@@ -1,40 +1,34 @@
 # AETHERIS OS — Control Tower v12
 
-AI Agent Governance OS สำหรับควบคุม, ตรวจสอบ, และทำกำไรจาก AI Agent Swarm แบบเรียลไทม์
+AI Agent Governance OS สำหรับควบคุม AI Agent Swarm แบบเรียลไทม์
 
-Built with Google AI Studio • React + Vite + Tailwind CSS
+Built with Google AI Studio • React + Vite + Tailwind
 
-## ✨ Features
-
-**Control Tower**
-- CommandCenter — 30-layer Cognitive Governance Mesh
-- AgentSpectrum — MAEW / SALES / MARKETING / FINANCE
-- ArchitectureBlueprint — Live system map
-- BlackSwanSimulator — Chaos Sandbox
-
-**Ops & Analytics**
+## Features
+- CommandCenter, AgentSpectrum
+- ArchitectureBlueprint, BlackSwanSimulator  
 - HeartbeatVisualizer, KPITrendChart, ROICalculator
-- ResourceAllocation, SecurityIncidentPanel
-- MacrosPanel, TaskPolicyManager
-
-**Platform**
+- SecurityIncidentPanel, ResourceAllocation
 - LandingPage, AuthModal, BillingPortal
-- Firebase Auth / Firestore
-- Export C-Suite Dossier
 
-## 💳 Pricing
+## Pricing
+Free Trial: 0฿ / 7 วัน
+Starter: 499฿ /เดือน
+Pro: 1,490฿ /เดือน
+Enterprise: ติดต่อฝ่ายขาย
 
-| Plan | ราคา |
-|---|---|
-| Free Trial | 0฿ / 7 วัน |
-| Starter | 499฿ /เดือน |
-| Pro | 1,490฿ /เดือน |
-| Enterprise | ติดต่อฝ่ายขาย |
-
-## 🚀 Quick Start
-
-```bash
+## Quick Start
 git clone https://github.com/zxsvzv00-cpu/aetheris-os-v12.git
 cd aetheris-os-v12
 npm install
 npm run dev
+
+Build: npm run build → dist/
+
+## Deploy Vercel
+Framework: Vite
+Build: npm run build
+Output: dist
+
+---
+AETHERIS OS © 2026
